@@ -22,8 +22,8 @@ Both email drafts are saved in this folder as `email_drafts.pdf`.
 **Subject:** Request for Assignment Submission Extension – Data Structures (CS2001)
 
 ---
-
-Dear Prof. Kannan,
+To: Prof. R. Mehta | CSE2001 - Data Structures
+Dear Prof. Mehta,
 
 I hope this message finds you well. I am writing to respectfully request a short extension for the Data Structures assignment due on 5th April 2026.
 
@@ -46,8 +46,8 @@ email: nakshatra.25mim10206@vitbhopal.ac.in<br>
 **Subject:** Application for Summer Internship 2026 – Computer Science / Software Development
 
 ---
-
-Dear Mr. Kannan,
+**To:** Ms. Priya Kapoor | HR, TechNova Solutions
+Dear Ms. Kapoor,
 
 I am Nakshatra Kundnani, a first-year Int.M.Tech Computer Science (Artificial Intelligence) student at VIT Bhopal University (Reg. No. 25MIM10206). I am writing to express my interest in a summer internship opportunity at TechNova Solutions for the upcoming vacation period (May–June 2026).
 
