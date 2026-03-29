@@ -49,7 +49,7 @@ email: nakshatra.25mim10206@vitbhopal.ac.in<br>
 
 Dear Mr. Kannan,
 
-I am Aryan Sharma, a first-year B.Tech Computer Science student at VIT Bhopal University (Reg. No. 24BCE1234). I am writing to express my interest in a summer internship opportunity at TechNova Solutions for the upcoming vacation period (May–June 2026).
+I am Nakshatra Kundnani, a first-year B.Tech Computer Science student at VIT Bhopal University (Reg. No. 24BCE1234). I am writing to express my interest in a summer internship opportunity at TechNova Solutions for the upcoming vacation period (May–June 2026).
 
 I am currently learning Java, Python, and C++, and have recently completed a Digital Literacy project involving data tools, GitHub, and online collaboration platforms. I am eager to apply this foundation in a professional setting and gain real-world exposure to software development workflows.
 
