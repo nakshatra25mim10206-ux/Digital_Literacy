@@ -80,7 +80,9 @@ This repository is my complete **Digital Literacy Portfolio** — built across f
 │   └── 📋 README.md
 │
 ├── 📁 task-2-portfolio/
-│   ├── 🖼️  Task_2_Digital_Literacy.png     ← Screenshots of GitHub, LinkedIn, Kaggle
+│   ├── 🖼️  GitHub_screenshot.png     ← Screenshot of GitHub
+|   ├── 🖼️  kaggle_screenshot.png     ← Screenshot of Kaggle
+|   ├── 🖼️  LinkedIn_screenshot.png   ← Screenshot of LinkedIn
 │   └── 📋 README.md
 │
 ├── 📁 task-3-platforms/
