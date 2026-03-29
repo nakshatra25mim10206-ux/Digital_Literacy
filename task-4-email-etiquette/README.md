@@ -22,7 +22,7 @@ Both email drafts are saved in this folder as `email_drafts.pdf`.
 **Subject:** Request for Assignment Submission Extension – Data Structures (CS2001)
 
 ---
-To: Prof. R. Mehta | CSE2001 - Data Structures
+**To:** Prof. R. Mehta | CSE2001 - Data Structures
 Dear Prof. Mehta,
 
 I hope this message finds you well. I am writing to respectfully request a short extension for the Data Structures assignment due on 5th April 2026.
